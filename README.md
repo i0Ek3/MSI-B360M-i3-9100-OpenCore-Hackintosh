@@ -21,11 +21,21 @@ Also I have a lot of other devices, I can't ask others to update as soon as poss
 - WIFI Card: N/A
 - Bluetooth: USB Bluetooth Adapter
 
-## How To
+## How To Use This EFI?
 
 - Download EFI and copy to your EFI partition on your mac
 - Find the proper Serial Number, and setting in your config.plist
 - Reboot and enjoy
+
+## How To Get(Config) Your Own EFI?
+
+Check follows posts and just do it, you'll get your own OC/EFI.
+
+- [https://dortania.github.io/OpenCore-Install-Guide/](https://dortania.github.io/OpenCore-Install-Guide/) Dortania's OpenCore Install Guide
+- [https://apple.sqlsec.com](https://apple.sqlsec.com) Overview of how to config OC/EFI.
+- [https://blog.xjn819.com/post/opencore-guide.html](https://blog.xjn819.com/post/opencore-guide.html) How to setting Quirks in OC/EFI/config.plist.
+- [https://github.com/daliansky/OC-little](https://github.com/daliansky/OC-little) Make hotpatch, also you can check `Improvements 系统优化` in [this post](https://github.com/i0Ek3/Hackintosh_4_Hasee_Shinelon_A40L) of mine.
+
 
 ## Credit
 
