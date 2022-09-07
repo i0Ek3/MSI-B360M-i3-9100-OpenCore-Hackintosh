@@ -13,13 +13,18 @@ Also I have a lot of other devices, I can't ask others to update as soon as poss
 
 ## Configuration
 
-- CPU: i3-9100
-- MotherBoard: MSI B360M
+- CPU: i3-9100(UHD630) | 999
+- MotherBoard: MSI B360M | 619
 - Graphics: UHD 630
-- Memory: 32 GB(16 GB * 2)
-- Hard Disk: 1T HHD + 500 GB SSD
+- Memory: Gloway 32 GB(16 GB DDR4 * 2) | 369 * 2
+- SSD: Asgard AN3 500G | 499
+- Hard Disk: 1T HHD 
 - WIFI Card: N/A
-- Bluetooth: USB Bluetooth Adapter
+- Bluetooth: N/A
+- Power: Delta NX450（450W）| 269
+- Cooling：Thermalright AS120 | 109
+- Fan：ARCTIC 12cm | 39
+- Cable：JONSBO U3 | 299
 
 ## How To Use This EFI?
 
